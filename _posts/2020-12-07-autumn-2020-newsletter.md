@@ -29,7 +29,7 @@ The stewards team spent this autumn on community, tooling and governance support
 
 We helped the Signalen community to collaborate better by setting up a mailing list for them in September. They're now using it to get a shared backlog online, so they're ready to start quarterly roadmaps in 2021.
 
-The [Signalen product website](https://signalen.org/en/) is now also available in English.
+The [Signalen product website](https://web.archive.org/web/20210120093134/https://signalen.org/en/) is now also available in English.
 
 In November, the Signalen community updated the [Standard for Public Code](https://standard.publiccode.net/) gap analysis included in their codebase community. [See the new version.](https://github.com/Amsterdam/signals/blob/master/docs/topics/signalen-and-standard-for-public-code.md)
 
@@ -87,7 +87,7 @@ In November, [Alba](https://web.archive.org/web/20210225190155/https://publiccod
 
 [Felix](https://web.archive.org/web/20210225192009/https://publiccode.net/who-we-are/team/felix-faassen.html) wrote [an article about how government and market parties are jointly building the OpenZaak community](https://opensource.pleio.nl/groups/view/57979222/open-source/blog/view/57979368/gemeenten-en-de-markt-bouwen-samen-de-openzaak-community) for the Dutch national open source forum ([opensource.pleio.nl](https://opensource.pleio.nl/)).
 
-Last week, [Jan](https://publiccode.net/team/jan-ainali.html) ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://www.govtechday.se/) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
+Last week, [Jan](https://publiccode.net/team/jan-ainali.html) ran a workshop on how to effectively do "Open Source in the Public Sector" at the [Swedish GovTechDay](https://govtechsweden.se/govtech-day) ([slides](https://hackmd.io/@Ainali/H1EQUI99D#/) in Swedish).
 
 ## Reading list
 
